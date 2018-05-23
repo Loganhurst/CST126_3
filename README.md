@@ -1,12 +1,12 @@
 # CST126_3 - Author Author
 
-**Class ID:** <Your ID here>
+**Class ID:** Scotched
 
 **Assignement ID:** CST126_3
 
 **Unresolved Issues:**
 
-**Notes:**
+**Notes: output numbers wrong, compiles correctly
 
 
 ---
